@@ -1,6 +1,6 @@
 Bulls And Cows
 ===
-A simple Word Guessing game.
+A simple word guessing game.
 ---
 This is the first game I built with C++. It was completed on 2019/01/24.
 
